@@ -1,5 +1,5 @@
 ---- MODULE MC ----
-EXTENDS philosophers
+EXTENDS philosophersSmart
 
 ConstNumPhilosophers == 3
 ConstNULL == 0
