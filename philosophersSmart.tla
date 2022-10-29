@@ -1,4 +1,5 @@
 ---- MODULE philosophersSmart ----
+
 EXTENDS Integers, Sequences, TLC, FiniteSets
 CONSTANTS NumPhilosophers, NULL
 ASSUME NumPhilosophers > 0
