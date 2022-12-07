@@ -1,8 +1,9 @@
 ---- MODULE MC ----
 
-EXTENDS philosophersSmart
+EXTENDS 4cars
 
-ConstNumPhilosophers == 3
+ConstNumCars == 3
+ConstNumRoads== 4
 ConstNULL == 0
 
 ==== MC 
